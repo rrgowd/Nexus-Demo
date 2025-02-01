@@ -120,11 +120,11 @@
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://54.66.24.153:8081/repository/maven-releases/</url>
+            <urlhttp://ip172-18-0-151-cuf4hvqki0og00bupn3g-8082.direct.labs.play-with-k8s.com/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://54.66.24.153:8081/repository/maven-snapshots/</url>
+            <url>http://ip172-18-0-151-cuf4hvqki0og00bupn3g-8082.direct.labs.play-with-k8s.com/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
